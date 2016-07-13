@@ -1,7 +1,7 @@
 # Space Realty Inc.
 This website was made for fun as a final front-end project for [Hack Reactor's](https://github.com/hackreactor) Remote Prep (RP28) class.
 
-*Deployed version can be found here:* https://heshamabdalla.github.io/spaceestate
+*Deployed version can be found here:* https://harismh.github.io/space-realty
 
 ## Credits
 [Hesham Abdulla](https://github.com/HeshamAbdalla/)
